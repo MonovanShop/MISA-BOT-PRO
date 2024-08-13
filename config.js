@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["5215541081250", 'Monovan Bot', true], //𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕
-["5215541081250", 'Monovan Bot', true],
-["5215541081250", 'Monovan Bot', true]]
+["5219997946282", 'Monovan Bot', true], //𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕
+["5219997946282", 'Monovan Bot', true],
+["5219997946282", 'Monovan Bot', true]]
 
 global.mods = []
 global.prems = []
@@ -112,8 +112,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5215541081250", 'Monovan 𝑩𝒐𝒕', 1], 
-["5215541081250", 'Monovan 𝑩𝒐𝒕', 1]]
+["5219997946282", 'Monovan 𝑩𝒐𝒕', 1], 
+["5219997946282", 'Monovan 𝑩𝒐𝒕', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -191,7 +191,7 @@ global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "5215541081250"
+global.nomorown = "5219997946282"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
